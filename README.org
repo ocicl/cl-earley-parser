@@ -1,0 +1,9 @@
+* cl-earley-parser
+
+A natural language parser using Jay Earleys well-known algorithm.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/oyvinht/cl-earley-parser.git |
+| commit  | d625187                                             |
+| systems | cl-earley-parser                                    |
+|---------+-----------------------------------------------------|
